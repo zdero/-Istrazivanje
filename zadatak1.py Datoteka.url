@@ -1,2 +1,9 @@
-[InternetShortcut]
-URL=https://e-ucenje.unipu.hr/mod/resource/view.php?id=35104
+x=5 
+if x==1:  / primjer grananja
+   print("X = 1") 
+elif x==2: 
+   print("X = 2") 
+elif x==5: 
+   print("X = 5") 
+else: 
+    print("Nijedan od uvjeta nije ispravan!")
